@@ -2,14 +2,14 @@
 My first repository
 
  
- My Favorite Series 🎬
+### My Favorite Series 🎬
 
- Stranger Things
+### Stranger Things
 
 Stranger Things** is one of my all-time favorite series!  
 It’s a *sci-fi horror drama* set in the 1980s that follows a group of kids who uncover mysterious supernatural events in their small town.
 
- Why I Love It
+### Why I Love It
 - Great mix of **mystery** and **nostalgia**
 - Strong friendships and emotional storytelling
 - Amazing performances by the cast
@@ -20,9 +20,9 @@ It’s a *sci-fi horror drama* set in the 1980s that follows a group of kids who
 2. Dustin
 3. Hopper
 
- Favorite Quote
+### Favorite Quote
 > "Friends don't lie."
 
- Learn More
+### Learn More
 Check it out on [Netflix](https://www.netflix.com/title/80057281).
 
